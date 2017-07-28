@@ -33,3 +33,6 @@ itemized below.
 
 The slides in this repository are licensed under
 the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+The contents of the 'computational_geometry_tutorial' directory were forked from
+[https://github.com/tylerjereddy/pycon-2016](https://github.com/tylerjereddy/pycon-2016).
