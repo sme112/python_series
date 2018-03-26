@@ -1,3 +1,5 @@
+# DEPRECATED. This repository will no longer be updated. Please see [this repository](https://github.com/smevirtual/python_fundamentals_workshop) for a workshop with very similar goals being developed within the [SME Virtual Network](https://www.youtube.com/channel/UC7DNeDhrD2a5Ptyo9Rm_mwQ).
+
 ## Everything Python
 
 This repository contains all of the slide decks, source code and other content
